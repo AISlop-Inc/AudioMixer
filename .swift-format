@@ -1,0 +1,5 @@
+{
+    "indentation": { "spaces": 4 },
+    "lineLength": 120,
+    "lineBreakAroundMultilineExpressionChainComponents": true
+}
